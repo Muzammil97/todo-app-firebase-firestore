@@ -1,1 +1,2 @@
-# todo-app-firebase-firestore
+# todo-application-react
+todo-application-react
